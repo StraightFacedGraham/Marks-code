@@ -1,0 +1,1 @@
+Python code which takes marks as inputs, and determines if the student has passed or failed based on the marks inputted. Also displays a bar chart which shows the number of students who are Progressing, Trailing, Retriving or excluded.
